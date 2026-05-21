@@ -11,7 +11,7 @@ O repositório é composto pelos seguintes arquivos principais:
 
 *   **`desafio_transacoes_procedures.sql`**: Script contendo toda a lógica de programação de banco de dados (Transações manuais da Parte 1 e a Stored Procedure com tratamento de exceção da Parte 2).
 *   **`ecommerce_backup.sql`**: Arquivo de dump lógico contendo a estrutura completa do banco de dados (tabelas, chaves estrangeiras, a procedure criada e metadados).
-*   **`README.md`**: Este guia de documentação do projeto.
+*   **`esquema_ecommerce_base.sql`**: Banco de dados referência.
 
 ---
 
